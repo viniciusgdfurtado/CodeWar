@@ -1,4 +1,4 @@
-## <h2 align="center">:bookmark_tabs: Lista de Exercicios - C# (Nível Básico) </h2>
+## <h2 align="center">:bookmark_tabs: Lista de Exercicios - C# [CodeWar](https://www.codewars.com/) </h2>
 Objetivo: usando uma aplicação do tipo console do dotnet, criar uma lista de repositórios com exercicios que exemplifiquem minhas capacidades de desenvolvimento em C#, utilizando desafios existentes no CodeWar.
 
 <p align="center">
