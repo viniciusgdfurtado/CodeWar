@@ -1,5 +1,5 @@
 ## <h2 align="center">:bookmark_tabs: Lista de Exercicios - C# (Nível Básico) </h2>
-Objetivo: usando uma aplicação do tipo console do dotnet, criar uma lista de repositórios com exercicios que exemplifiquem minhas capacidades de desenvolvimento em C#.
+Objetivo: usando uma aplicação do tipo console do dotnet, criar uma lista de repositórios com exercicios que exemplifiquem minhas capacidades de desenvolvimento em C#, utilizando desafios existentes no CodeWar.
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=.Net&message=framework&color=blue&style=for-the-badge&logo=.Net"/>  
@@ -9,8 +9,18 @@ Objetivo: usando uma aplicação do tipo console do dotnet, criar uma lista de r
 
 ### Exercicios 
 
-:small_blue_diamond: [Calculadora](https://github.com/viniciusgdfurtado/ExerciciosCSharp/tree/main/Calculadora)
+:small_blue_diamond: [AnosBissextos](https://github.com/viniciusgdfurtado/CodeWar/tree/main/AnosBissextos)
 
-:small_blue_diamond: [Soma e Média](https://github.com/viniciusgdfurtado/ExerciciosCSharp/tree/main/Soma_Media)
+:small_blue_diamond: [Multiplos](https://github.com/viniciusgdfurtado/CodeWar/tree/main/Multiplos)
 
-:small_blue_diamond: [Jogar Dados](https://github.com/viniciusgdfurtado/ExerciciosCSharp/tree/main/JogarDados)
+:small_blue_diamond: [NumeroMaisRecorrenteArray](https://github.com/viniciusgdfurtado/CodeWar/tree/main/NumeroMaisRecorrenteArray)
+
+:small_blue_diamond: [NumeroPeloNome](https://github.com/viniciusgdfurtado/CodeWar/tree/main/NumeroPeloNome)
+
+:small_blue_diamond: [Par ou Impar](https://github.com/viniciusgdfurtado/CodeWar/tree/main/Par_Impar)
+
+:small_blue_diamond: [ReplaceDot](https://github.com/viniciusgdfurtado/CodeWar/tree/main/ReplaceDot)
+
+:small_blue_diamond: [ReverseStrings](https://github.com/viniciusgdfurtado/CodeWar/tree/main/ReverseStrings)
+
+:small_blue_diamond: [ValidaCartaoCredito](https://github.com/viniciusgdfurtado/CodeWar/tree/main/ValidaCartaoCredito)
