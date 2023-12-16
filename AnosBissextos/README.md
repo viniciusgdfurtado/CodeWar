@@ -1,5 +1,5 @@
-## <h2 align="center">:pager: Soma e Média - C#</h2>
-Objetivo: usando uma aplicação do tipo console do dotnet, criar uma aplicação que lê 3 à 10 números e realiza a soma e a média deles.
+## <h2 align="center">📆: Anos Bissextos - C# [Kata](https://www.codewars.com/kata/526c7363236867513f0005ca) </h2>
+Objetivo: usando uma aplicação do tipo console do dotnet, criar uma aplicação que valide se determinado ano é ou não bissexto.
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=.Net&message=framework&color=blue&style=for-the-badge&logo=.Net"/>  
@@ -8,14 +8,13 @@ Objetivo: usando uma aplicação do tipo console do dotnet, criar uma aplicaçã
 </p>
 
 ## :bookmark: Requisitos:
-* Ao abrir a aplicação deverá ser solicitado a quantidade de números que o usuário deseja informar. O número de valores deve ser entre 3 e 10.
-* A aplicação deve aceitar números decimais, positivos e negativos.
-* A aplicação deve percorrer a lista de números, calcular a soma e a média dos valores informados e imprimir o resultado para o usuário.
-* Todas as operações devem solicitar que o usuário entre com dois valores e então estes valores devem ser utilizados para realizar a operação escolhida. Exemplo de fluxo da operação de Soma:
+* Determinar se um determinado ano é bissexto ou não.
 
 ## :books: Funcionalidades
-* <b>Somar</b>: Percorrer uma lista de números, calcular a soma e imprimir o resultado para o usuário.
-* <b>Média</b>: Percorrer uma lista de números, calcular a média dos valores informados e imprimir o resultado para o usuário.
+* <b>Validação</b>: Determinar se um determinado ano é bissexto ou não.
+  * Anos divisíveis por 4 são anos bissextos,
+  * Anos divisíveis por 100 não são anos bissextos,
+  * Anos divisíveis por 400 são anos bissextos.
 
 ## :rocket: Rodando o projeto
 * Para rodar o repositório é necessário clonar o mesmo para a sua pasta de preferência;
