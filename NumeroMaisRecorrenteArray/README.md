@@ -1,5 +1,5 @@
-## <h2 align="center">:pager: Soma e Média - C#</h2>
-Objetivo: usando uma aplicação do tipo console do dotnet, criar uma aplicação que lê 3 à 10 números e realiza a soma e a média deles.
+## <h2 align="center">1️⃣: Número mais Recorrente - C# [Kata](https://www.codewars.com/kata/5420fc9bb5b2c7fd57000004)</h2>
+Objetivo: usando uma aplicação do tipo console do dotnet, criar uma aplicação que retorne o número mais frequente no array de entrada fornecido.
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=.Net&message=framework&color=blue&style=for-the-badge&logo=.Net"/>  
@@ -8,14 +8,11 @@ Objetivo: usando uma aplicação do tipo console do dotnet, criar uma aplicaçã
 </p>
 
 ## :bookmark: Requisitos:
-* Ao abrir a aplicação deverá ser solicitado a quantidade de números que o usuário deseja informar. O número de valores deve ser entre 3 e 10.
-* A aplicação deve aceitar números decimais, positivos e negativos.
-* A aplicação deve percorrer a lista de números, calcular a soma e a média dos valores informados e imprimir o resultado para o usuário.
-* Todas as operações devem solicitar que o usuário entre com dois valores e então estes valores devem ser utilizados para realizar a operação escolhida. Exemplo de fluxo da operação de Soma:
+* Retorna o número mais frequente no array de entrada fornecido.
+* Caso haja empate no número mais frequente, retorne o maior número entre eles.
 
 ## :books: Funcionalidades
-* <b>Somar</b>: Percorrer uma lista de números, calcular a soma e imprimir o resultado para o usuário.
-* <b>Média</b>: Percorrer uma lista de números, calcular a média dos valores informados e imprimir o resultado para o usuário.
+* <b>Maor Recorrência</b>: Percorrer um array de números, retornar o número mais frequente no array de entrada fornecido.
 
 ## :rocket: Rodando o projeto
 * Para rodar o repositório é necessário clonar o mesmo para a sua pasta de preferência;
