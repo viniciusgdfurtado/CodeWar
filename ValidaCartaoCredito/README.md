@@ -1,4 +1,4 @@
-## <h2 align="center">💳: Calidar Cartão de Crédito - C# [Kata](https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2)</h2>
+## <h2 align="center">💳: Validar Cartão de Crédito - C# [Kata](https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2)</h2>
 Objetivo: usando uma aplicação do tipo console do dotnet, criar uma aplicação que lê um número inteiro positivo de tamanho 16 e retornar se é um número de cartão válido.
 
 <p align="center">
